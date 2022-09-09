@@ -10,3 +10,5 @@ Thus. It would be my kind of small minecraft server among friends, yet with mini
 Minecraft servers with fifty+ mods are kind of just too costy to server resources. Preferably they demand at least 4 CPU, 8 RAM even for small server for few people xD
 [3:46 AM]
 It will automatically also kind of solve a problem that minecraft server needs to be restarted at least once a day, due to all memory leaks xD
+
+Actually for next versions: make minecraft as service with panel to control and sell
